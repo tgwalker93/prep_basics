@@ -856,7 +856,8 @@ Branching is when the developer creates a separate version of their local reposi
 Using a new branch allows the developer to make experimental changes to their project while having the ability to either discard those changes later, or merge them into their main project. It also allows teams to work off the master branch simultaneously and merge them all later.
 
 *Contributed by [Allan Beals-Gibson](http://github.com/afbeals)*
-
+gesrgsergesrgesrgesrgesrgesgesrgesgesgweafaewfwaaaaaaaaaaaaaaa
+aewffffffffffffffffffffffffffffffffffffffffffffffff
 
 #### How do you create a new branch?
 
